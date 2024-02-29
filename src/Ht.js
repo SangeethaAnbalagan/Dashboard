@@ -129,9 +129,9 @@ function Navs(){
 
 
 
-</div>  `
+</hr>  `
 </>
     )
 }
 
-export default 
+export default Navs;
